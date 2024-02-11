@@ -1,5 +1,5 @@
 asyncio
-Pyrogram==2.0.106
+Pyrogram==1.4.16
 TgCrypto
 telethon
 hydrogram==0.1.4
